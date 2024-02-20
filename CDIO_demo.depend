@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1674647810 source:c:\users\asus\desktop\programming\sha-1\cdio_demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"CDIO_demo.h"
+	"username_verification.h"
+
+1674622792 c:\users\asus\desktop\programming\sha-1\cdio_demo\cdio_demo.h
+
+1674647810 source:c:\users\asus\desktop\programming\sha-1\cdio_demo\cdio_demo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CDIO_demo.h"
+
+1674614581 source:c:\users\asus\desktop\programming\sha-1\cdio_demo\username_verification.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"username_verification.h"
+
+1674614581 c:\users\asus\desktop\programming\sha-1\cdio_demo\username_verification.h
+
+1675066554 source:c:\sebb2033 sec 1\cdio final\cdio_demo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1675066517 c:\sebb2033 sec 1\cdio final\cdio_demo.h
+
+1675067923 source:c:\sebb2033 sec 1\cdio final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1674647539 c:\sebb2033 sec 1\cdio final\username_verification.h
+
+1674647539 source:c:\sebb2033 sec 1\cdio final\username_verification.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"username_verification.h"
+
+1675340313 source:c:\users\asus\desktop\cdio final\cdio_demo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1675340313 c:\users\asus\desktop\cdio final\cdio_demo.h
+
+1675341291 source:c:\users\asus\desktop\cdio final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1675153029 source:c:\sebb2033 sec 1\cdio\cdio final 2023.1.31 7.24pm\cdio_demo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1675066517 c:\sebb2033 sec 1\cdio\cdio final 2023.1.31 7.24pm\cdio_demo.h
+
+1675174309 source:c:\sebb2033 sec 1\cdio\cdio final 2023.1.31 7.24pm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1675153029 source:c:\users\asus\desktop\cdio final 2023.1.31 10.19pm\cdio_demo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1675066517 c:\users\asus\desktop\cdio final 2023.1.31 10.19pm\cdio_demo.h
+
+1675174309 source:c:\users\asus\desktop\cdio final 2023.1.31 10.19pm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1675340313 source:c:\users\asus\desktop\e-spi\cdio_demo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
+1675340313 c:\users\asus\desktop\e-spi\cdio_demo.h
+
+1675342915 source:c:\users\asus\desktop\e-spi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"CDIO_demo.h"
+
